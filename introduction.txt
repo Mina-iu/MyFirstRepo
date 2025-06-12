@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+This is a brief introduction. I am currently learning about software development and version control with Git and GitHub. This exercise is helping me understand the fundamentals of creating repositories, managing files, and tracking changes.
+
+My goal is to become proficient with these tools to collaborate effectively on future projects. I am enthusiastic about technology and eager to continue developing my skills in this field.
